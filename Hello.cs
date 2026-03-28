@@ -1,0 +1,5 @@
+public class{
+	public static void main(){
+		System.Console.WriteLine("Hello")
+	}}
+
